@@ -3,4 +3,8 @@
 
 [Bun Official Website & Docs](https://bun.sh)
  
+# Watch mode
+```bun --watch [filename]```
 
+# Hot reload
+```bun --hot index.ts```
